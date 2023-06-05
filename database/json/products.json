@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Product Name",
+        "price": "10000",
+        "quantity": "2",
+        "category": "phone",
+        "description": "my description"
+    },
+    {
+        "name": "Product two",
+        "price": "10000",
+        "quantity": "2",
+        "category": "phone",
+        "description": "my description"
+    }
+]
